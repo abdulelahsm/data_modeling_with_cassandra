@@ -12,7 +12,7 @@ They'd like a data engineer to create an Apache Cassandra database which can cre
 
 ### Project Steps
 
-*Modeling your NoSQL database or Apache Cassandra database
+* Modeling your NoSQL database or Apache Cassandra database
 *Design tables to answer the queries outlined in the project template
 *Write Apache Cassandra CREATE KEYSPACE and SET KEYSPACE statements
 *Develop your CREATE statement for each of the tables to address each question
